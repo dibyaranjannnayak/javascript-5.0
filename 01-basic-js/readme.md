@@ -19,5 +19,60 @@ what is js and why wwee use it ?
             >As the name explains is the type of variable where we cann't change the value any further.
 
 
-example::
-           
+Rules of Variable ::-
+      -variable names are case sensitive.
+      -only letter,digit,underscore and $ is allowed in the variable name.
+      -only letter, _ and $ is allowed to be the first character of the variable name.
+      -reserve words cann't be used as the variable name.
+
+
+data types in js ::-
+      -data type is an attribute which is associated with the data , which tells the computer system how to interpret its value.
+      -in js there are mainly two types of data type
+         1.primitive data type.
+         2.non-primitive data type.
+
+      1.primitive data type:
+         >in js there are 7 types of data type.
+            a.Number : cointains some numerical value.
+            b.string : cointains some character like names.
+            c.Boolean : cointains boolean value like true or false.
+            d.Undefined : in undefined data type the data is not defined , so it will show undefined.
+            e.Null : here the value is null.
+            f.Bigint : in bigint we will get Big integer value.
+            g.Symbol : in symbol we will get whole symbol as well as the value of we get for the data type.
+
+      2.Non-primitive or reference
+         >non primitive data types are the type of data types , that can hold multiple items in a single time.
+            a.object
+            b.array
+            c.function
+
+             a.object
+               -object can hold multiple items in one single entity.
+               -mainly object work on (key:value) pair.
+               -the left hand side is our key , and right hand side are the values of the following object.
+
+
+            ex.
+             
+               dibya= {
+                  college = "giet",
+                  address = "bbsr",
+                  age = "22",
+                  salary = "50000",
+                  carrier="good"
+               }
+
+
+operators in js ::
+   -operators are the key features to do some task or operate some task.
+
+   ex. a+b
+
+   1.Arithmetic operators :
+         >(+,-,*,/)
+
+         modulus -- %
+         exponentiation -- **
+         
