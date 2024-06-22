@@ -75,4 +75,35 @@ operators in js ::
 
          modulus -- %
          exponentiation -- **
+
+   2.unary operator :
+
+         increment -- (++)
+         decrement -- (--)
          
+   3.assignment operator :
+         (=,+=,-=,*=,%=,**=)
+
+
+   4.comparision operator :
+         < it gives a boolean value(true,false)
+
+         equalto -- (=)
+         not equal to --(!=)
+         equal to & type --(===)
+         not equal to & type --(!==)
+         (<,<=,>,>=)
+
+   5.Logical operator :
+      (||,&&)
+
+      T+T=T
+      F+T=F
+
+   6.conditional statement :
+
+      -There are 3 types of conditional statement are there;
+         1.if condition
+         2.if-else condition
+         3.else-if condition
+      
